@@ -1,4 +1,6 @@
 Projeto de Análise de Dados Imobiliários – Rio de Janeiro
+
+
 Este repositório apresenta um projeto de Análise de Dados desenvolvido a partir de uma base de preços de aluguéis de imóveis no Rio de Janeiro.
 O objetivo foi dar suporte ao time de Machine Learning e Desenvolvimento de um site imobiliário, preparando e enriquecendo os dados para uso em modelos preditivos e exibição no front-end.
 

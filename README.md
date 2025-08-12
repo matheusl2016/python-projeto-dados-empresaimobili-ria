@@ -1,10 +1,10 @@
-Projeto de Análise de Dados Imobiliários – Rio de Janeiro
+###Projeto de Análise de Dados Imobiliários – Rio de Janeiro
 
 
   Este repositório apresenta um projeto de Análise de Dados desenvolvido a partir de uma base de preços de aluguéis de imóveis no Rio de Janeiro.
   O objetivo foi dar suporte ao time de Machine Learning e Desenvolvimento de um site imobiliário, preparando e enriquecendo os dados para uso em modelos preditivos e exibição no front-end.
 
-📌 Contexto do Projeto
+##Contexto do Projeto
   A empresa imobiliária disponibilizou:
 
   Uma base de dados com informações sobre imóveis e seus respectivos valores de aluguel.
@@ -13,10 +13,10 @@ Projeto de Análise de Dados Imobiliários – Rio de Janeiro
 
   O fluxo de trabalho seguiu um pipeline organizado em etapas, desde a exploração inicial até a criação de novas features.
 
-🗂 Estrutura das Demandas
+##Estrutura das Demandas
   As tarefas estavam divididas em dois tipos:
 
-  Demandas de Machine Learning (ML) 🧠
+  Demandas de Machine Learning (ML) 
 
   Análise exploratória dos dados (EDA)
 
@@ -28,13 +28,13 @@ Projeto de Análise de Dados Imobiliários – Rio de Janeiro
 
   Salvamento dos dados processados
 
-  Demandas de Desenvolvimento (DEV) 💻
+  Demandas de Desenvolvimento (DEV) 
 
   Criação de colunas numéricas
 
   Criação de colunas categóricas
 
-🔍 Etapas do Projeto
+##Etapas do Projeto
   Importação e exploração inicial da base
 
   Leitura do dataset utilizando Pandas
@@ -63,7 +63,7 @@ Projeto de Análise de Dados Imobiliários – Rio de Janeiro
   
   Uso do método apply() e funções lambda para transformação de dados
 
-🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
   Python 3
   
   Pandas
@@ -72,7 +72,7 @@ Projeto de Análise de Dados Imobiliários – Rio de Janeiro
   
   Trello (gestão de tarefas)
 
-📈 Principais Aprendizados
+## Principais Aprendizados
   Técnicas de limpeza e transformação de dados
   
   Aplicação de funções agregadoras e filtros avançados com Pandas
